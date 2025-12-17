@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I’m Aswanth Jeyaram Kumar, pursuing my B.S. in Computer Science (AI/ML track) and an M.P.S. in Software Engineering.
+
+I specialize in AI-driven applications, full-stack web development, and automation, with experience in Python, FastAPI, React, Angular, Docker, and PostgreSQL. My background spans machine learning model integration, API design, and CI/CD workflows, with a strong focus on writing clean, scalable code.
+
+Currently expanding my expertise in data analytics, data pipelines, and modern ML workflows — always exploring how intelligent systems can power real-world solutions.
+
+💻 Tech interests: AI/ML, data engineering, full-stack systems, LLMs, and cloud-native development
+📚 Learning: Data analytics, advanced backend design, and production-level AI integration
 <!--
 **Ash-bytes11/Ash-bytes11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
