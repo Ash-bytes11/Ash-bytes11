@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m Aswanth Jeyaram Kumar, pursuing my B.S. in Computer Science (AI/ML track) and an M.P.S. in Software Engineering.
+I’m Aswanth but also go by Ash. I'm pursuing my B.S. in Computer Science (AI/ML track) and an M.P.S. in Software Engineering.
 
 I specialize in AI-driven applications, full-stack web development, and automation, with experience in Python, FastAPI, React, Angular, Docker, and PostgreSQL. My background spans machine learning model integration, API design, and CI/CD workflows, with a strong focus on writing clean, scalable code.
 
